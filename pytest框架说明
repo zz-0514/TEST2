@@ -4,4 +4,4 @@ pytest默认测试用例的格式：
 - 方法名：测试方法名必须以test_开头
 
 pytest.ini中进行一些属性的配置来修改pytest的默认属性，要在根目录下创建，名称也必须不能修改
-requirements.txt中存储开发过程的第三方依赖，需要安装的
+requirements.txt中存储开发过程的第三方依赖，需要安装的包的名称和版本
